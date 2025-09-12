@@ -87,7 +87,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/abdelrahman-gawad-3536302bb/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdelrahman Gawad-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/in:  Abdelrahman Gawad-%2300acee.svg?color=405DE6&style=for-the-badge&logo=in&logoColor=white" alt=in style="margin-bottom: 5px;"/>
 </a>
 </li>
 
