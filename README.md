@@ -33,7 +33,8 @@
 <p align="center">
 
 - **Languages**:
-    ![R](https://img.shields.io/badge/R%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+- 
+    ![R](https://img.shields.io/badge/R%20-%232370ED.svg?style=for-the-badge&logo=r&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -49,7 +50,7 @@
 
 - **Cloud Hosting**:
 
-    ![Python Anywhere](https://img.shields.io/badge/Python%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Python Anywhere](https://img.shields.io/badge/Python%20Anywhere-%23327FC7.svg?style=for-the-badge&logo=python&logoColor=white)
     
 <br>
 
