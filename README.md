@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Bioinformatician Student
+- A passionate Bioinformatician student
 - Playing Chess at my spare time
 - Currently learning R by Self
 - Personal website [link](https://gawad163.pythonanywhere.com/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/10gynhV7k3sbb5xZTkmRQYBST9s5Xecui/view?usp=sharing)
 
 <br><br>
 
@@ -33,8 +33,7 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![R](https://img.shields.io/badge/R%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -50,7 +49,7 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Python Anywhere](https://img.shields.io/badge/Python%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
