@@ -20,7 +20,7 @@
 - Playing Chess at my spare time
 - Currently learning R by Self
 - Personal website [link](https://gawad163.pythonanywhere.com/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/10gynhV7k3sbb5xZTkmRQYBST9s5Xecui/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/17J3-TgK4TebSIc_Gj1Eh4xtFT7E2WzhL/view?usp=drive_link)
 
 <br><br>
 
