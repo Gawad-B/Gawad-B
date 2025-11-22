@@ -37,8 +37,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
-    
+<br>    
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +46,13 @@
   ![Typescript](https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
   ![React](https://img.shields.io/badge/React%20-%23327FC7.svg?style=for-the-badge&logo=react&logoColor=white)
 
+<br>
+
+- **Back-End Development**:
+
+   ![Node Js](https://img.shields.io/badge/Node%20Js-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Databases](https://img.shields.io/badge/Databases%20-%23E34F26.svg?style=for-the-badge&logo=databases&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
