@@ -50,9 +50,9 @@
 
 - **Back-End Development**:
 
-   ![Node Js](https://img.shields.io/badge/Node%20Js-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+   ![Node Js](https://img.shields.io/badge/Node%20Js-%23E34F26.svg?style=for-the-badge&logo=node&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Databases](https://img.shields.io/badge/Databases%20-%23E34F26.svg?style=for-the-badge&logo=databases&logoColor=white)
+  ![Databases](https://img.shields.io/badge/Databases%20-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
