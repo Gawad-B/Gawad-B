@@ -51,6 +51,7 @@
 - **Cloud Hosting**:
 
     ![Python Anywhere](https://img.shields.io/badge/Python%20Anywhere-%23327FC7.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/Github%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
