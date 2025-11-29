@@ -16,7 +16,7 @@
 - Playing Chess at my spare time  
 - Currently learning R by Self  
 - Personal website → [link](https://gawad-b.github.io)  
-- Open for Internships & Job opportunities → [Resume](https://drive.google.com/file/d/1IBZ_10gTh_jHwZjFWzv7gWCePXJnMm6f/view?usp=drive_link)  
+- Open for Internships & Job opportunities → [Resume](https://drive.google.com/file/d/1aDSuNqZfdTOZ-1IKcq3GVVW4UugBVyGt/view?usp=sharing)  
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
