@@ -113,7 +113,13 @@ Open for Internships & Job opportunities → Resume
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+<br>
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gawad-b&theme=react-dark&hide_border=true&area=true" alt="Abdelrahman's GitHub Activity Graph"/>
+</p>
 <div align="center"> <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ ✨</b></h2> </div>
 
 
