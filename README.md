@@ -4,9 +4,7 @@ A passionate Bioinformatician student
 
 Playing Chess at my spare time
 
-Currently learning R by Self
-
-Personal website → link
+Personal website → <a href = "https://gawad-b.github.io/"> link </a>
 
 Open for Internships & Job opportunities → Resume
 
