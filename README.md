@@ -7,7 +7,7 @@ Playing Chess at my spare time
 
 Personal website → <a href = "https://gawad-b.github.io/" target=_blank> Link </a>
 
-Open for Internships & Job opportunities → <a href = "https://drive.google.com/file/d/1qEtCShJZUr4qTzBONvG2CgAacEKBp-g0/view?usp=sharing" target=_blank> Resume </a>
+Open for Internships & Job opportunities → <a href = "https://drive.google.com/file/d/1bnkYV2CXoy5egKlHUkfdahHh53Kukc5o/view?usp=sharing" target=_blank> Resume </a>
 
 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
