@@ -69,9 +69,9 @@ Currently: shipping Labora, building Quizzy, and open to internships & new-grad 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gawad-B/Gawad-B/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gawad-B/Gawad-B/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Gawad-B/Gawad-B/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gawad-B/Gawad-B/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gawad-B/Gawad-B/refs/heads/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Gawad-B/Gawad-B/refs/heads/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
