@@ -20,7 +20,7 @@ CS undergrad @ Egypt-Japan University of Science and Technology (E-JUST), class 
 Vice President & Teaching Assistant, E-JUST CS Club
 
 I build full-stack products end to end, and train models that go inside them.
-Currently: shipping Labora, building Quizzy, and open to internships & new-grad roles.
+Currently: shipping Quizzy and Labora, and open to internships & new-grad roles.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -29,8 +29,8 @@ Currently: shipping Labora, building Quizzy, and open to internships & new-grad 
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Quizzy](https://quizzy-woad-seven.vercel.app)** 🟢 live demo | Exam-prep platform for Egyptian EST/SAT students — separate student, teacher, parent and admin areas with classrooms, assignments, a weighted gradebook, messaging with web push, and XP/streaks/achievements. A Gemini RAG pipeline turns course PDFs into questions that a human reviews before any student sees them. | React · TypeScript · Express · PostgreSQL + pgvector · Gemini · Capacitor |
 | **[Labora](http://laboralanding.freeddns.org)** 🟢 live | Laboratory Information System — sample intake, test workflows, results & reporting for real labs | React · TypeScript · Node · PostgreSQL |
-| **Quizzy** 🚧 in progress | RAG-powered quiz platform that turns any document into graded assessments | FastAPI · PyTorch · pgvector · React |
 | **Latent Diffusion for Medical Imaging** 🔬 | Latent diffusion models for synthetic medical image generation | PyTorch · Diffusers |
 | **CVD Risk Prediction** 📊 | Cardiovascular disease risk classifier with clinical feature engineering | Python · scikit-learn · pandas |
 
