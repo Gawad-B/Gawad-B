@@ -30,9 +30,10 @@ Currently: shipping Quizzy and Labora, and open to internships & new-grad roles.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Quizzy](https://quizzy-woad-seven.vercel.app)** 🟢 live demo | Exam-prep platform for Egyptian EST/SAT students — separate student, teacher, parent and admin areas with classrooms, assignments, a weighted gradebook, messaging with web push, and XP/streaks/achievements. A Gemini RAG pipeline turns course PDFs into questions that a human reviews before any student sees them. | React · TypeScript · Express · PostgreSQL + pgvector · Gemini · Capacitor |
+| **[DaCode](https://da-code-wheat.vercel.app/)** ⚡ live · [source](https://github.com/Gawad-B/DaCode) | GPU-rendered code editor — no GUI framework, no web view. Tree-sitter highlighting, LSP, splits, a file tree, project-wide search and replace, a git gutter and an optional Vim grammar. Nothing unbounded runs on the UI thread, so a keystroke costs ~7 µs in a 100k-line file — asserted by a test that fails the build. | Rust · wgpu · winit · glyphon · tree-sitter |
 | **[Labora](http://laboralanding.freeddns.org)** 🟢 live | Laboratory Information System — sample intake, test workflows, results & reporting for real labs | React · TypeScript · Node · PostgreSQL |
+| **[CVD Risk Prediction](https://cvd-pi.vercel.app/)** 🟢 live | CardioScreen — cardiology screening system: patient records, encounter tracking and ML-backed risk assessment, with session auth and an audit trail | React · TypeScript · FastAPI · PostgreSQL · scikit-learn |
 | **Latent Diffusion for Medical Imaging** 🔬 | Latent diffusion models for synthetic medical image generation | PyTorch · Diffusers |
-| **CVD Risk Prediction** 📊 | Cardiovascular disease risk classifier with clinical feature engineering | Python · scikit-learn · pandas |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
